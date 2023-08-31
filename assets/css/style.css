@@ -1,0 +1,185 @@
+.upper-bg-container{
+    background-color: black;
+  
+  }
+    div.vertical-farm a {
+      font-size: 30px;
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+      font-family: sans-serif;
+    }
+    div.vertical-farm a:hover {
+      background-color: #777;
+    }
+    
+    div.scrollmenu a {
+      font-size: 25px;
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+      position:relative;
+      left: 20vw;
+      bottom: 7vh;
+      font-family: sans-serif;
+    }
+    
+    
+    div.scrollmenu a:hover {
+      background-color: purple;
+    }
+    div.login a {
+      font-size:25px;
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+      position:relative;
+      left: 80vw;
+      bottom: 14vh;
+    }
+    div.login a:hover {
+      background-color: purple;
+    }
+    .content {
+      color:white;
+      padding: 14px;
+      text-decoration: none;
+    }
+    .sub-content {
+      font-size: 10px;
+      color: white;
+      padding: 14px;
+      text-decoration: none;
+      position:relative;
+      bottom: 1vh;
+      font-family: sans-serif;
+    }
+      
+    .button {
+      border: none;
+      background-color: rgb(79, 211, 26);
+      color: black;
+      padding: 14px 28px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 40px;
+    }
+    .button1 {
+        border: none;
+        background-color: rgb(9, 9, 9);
+        color: rgb(233, 222, 222);
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 40px;
+      }
+    .button {
+      border-color:whitesmoke;
+      color: black;
+    }
+    
+    .button:hover {
+      background: purple;
+      color: white;
+    }
+    .flex-row{
+      display: flex;
+      flex-flow: row;
+      
+    }
+    .image-size{
+      height: 60vh;
+      width: 40vw;
+    }
+    .butto {
+      border: 2px solid black;
+      background-color:palevioletred;
+      color: black;
+      font-family: 'Times New Roman', Times, serif;
+      padding: 14px 28px;
+      font-size: 16px;
+      cursor: pointer;
+      position:relative;
+      left: 20vw;
+      bottom: 3vh;
+      
+    }
+    .butto {
+      border-color:whitesmoke;
+      color: black;
+    }
+    
+    .butto{
+  
+      margin-right: 100px;
+      
+      }
+      .endbar{
+        background-color: white;
+      }
+      .but {
+        border: 2px solid black;
+        background-color:rebeccapurple;
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        position:relative;
+        left: 3vw;
+        bottom: -2vh;
+        
+      }
+      .but {border-radius: 50%;}
+  
+      .img-size{
+        height:25vh;
+        width: 100vw;
+      }
+      body{
+        background-color: black;
+      }
+      .bu1 {
+        border: 2px solid black;
+        cursor: pointer;
+        position:relative;
+        left: 78vw;
+        bottom: 15vh;
+        border-radius: 40px;
+      }
+      .bu {
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        position:relative;
+        left: 78vw;
+        bottom: 15vh;
+        border-radius: 40px;
+      }
+      .bu {
+        background-color: rgb(31, 18, 18);
+        border: rgb(152, 30, 168);
+        color: rgb(155, 147, 147);
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+      }
+      .bu1 {
+        background-color: rgb(63, 176, 63);
+        border: rgb(152, 30, 168);
+        color: rgb(20, 19, 19);
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+      }
+      
+      .bu:hover {
+        background: purple;
+        color: white;
+      }
